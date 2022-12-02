@@ -1,5 +1,4 @@
 import mysql.connector
-from mysql.connector import errorcode
 
 db = input("Plese type your using database : ")
 
